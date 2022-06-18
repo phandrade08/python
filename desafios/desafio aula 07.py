@@ -1,4 +1,5 @@
-n1 = int(input('digite um numero'))
+n1 = int(input('Digite um numero: '))
 su = n1 + 1
 an = n1 - 1
-print('o numero sucessor e {} i o numero antecessor e {}'.format(su, an)) 
+print('O numero sucessor é {} e o numero antecessor é {}'.format(su, an))
+

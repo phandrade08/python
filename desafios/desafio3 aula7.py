@@ -1,3 +1,5 @@
-nt1 = int(input('digite sua primeira nota:? '))
-nt2 = int(input('digete sua segunda nota: '))
-print('a media de notas desse aluno e:',(nt1+nt2)/2)
+nt1 = int(input('Digite sua primeira nota: '))
+nt2 = int(input('Digite sua segunda nota: '))
+print()
+print('A media de notas desse aluno é:',(nt1+nt2)/2)
+# print(f'A media de notas desse aluno é: {(nt1+nt2)/2}')
